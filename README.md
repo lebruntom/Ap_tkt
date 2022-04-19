@@ -7,8 +7,8 @@
 
   <h1 align="center">Projet tkt</h1>
 <p align="center">
-    <a href="https://github.com/sinan-yazici/projet-tkt/issues">Signaler un Bug</a>
- <a href="https://github.com/Sinan-yazici/Projet-tkt/issues">Demander une nouvelle fonctionnalitée</a>
+    <a href="https://github.com/lebruntom/Ap_tkt/issues">Signaler un Bug</a>
+ <a href="https://github.com/lebruntom/Ap_tkt/issues">Demander une nouvelle fonctionnalitée</a>
   </p>
 </div>
 
@@ -104,7 +104,7 @@ Enfin, nous utilisons Cors qui est aussi une extensions disponible sur Google
 
 1. Cloner le repository
    ```sh
-   https://github.com/sinan-yazici/Projet-tkt.git
+   https://github.com/lebruntom/Ap_tkt.git
    ```
 2. lancer le server ionic
 * Ce rendre à l'emplacement du projet dans l'invite de commande
@@ -128,7 +128,7 @@ Pensez à lancer WampServer pour avoir accés à la base de données.
 
 Ensuite changer les informations de connexion à la base de données dans le fichier de configuration.
 
-![Cover](https://github.com/sinan-yazici/projet-tkt/blob/master/image/dbconfig.PNG)
+![Cover](https://github.com/lebruntom/Ap_tkt/blob/master/image/dbconfig.PNG)
 
 ### Importation
 
