@@ -42,7 +42,7 @@
 <!-- Contexte -->
 ## Contexte
 
-![Cover](https://github.com/sinan-yazici/projet-tkt/blob/master/image/cerza.PNG)
+![Cover](https://github.com/lebruntom/Ap_tkt/blob/master/image/cerza.PNG)
 
 Agence experte spécialisée dans le développement web et d’application mobile, TKT conseille et accompagne les créations, transformations digitales des startups, PME et grands groupes.
 
@@ -134,7 +134,7 @@ Ensuite changer les informations de connexion à la base de données dans le fic
 
 importer la base de données dans PhpMyAdmin :
 
-![Cover](https://github.com/sinan-yazici/projet-tkt/blob/master/image/import.PNG)
+![Cover](https://github.com/lebruntom/Ap_tkt/blob/master/image/import.PNG)
 
 Cela va nous permettre d'avoir accés à toutes les informations concernant le Zoo de Cerza
 
@@ -170,9 +170,9 @@ que l'attribuer à un utilisateur
 <!-- CONTACT -->
 ## Contact
 
-sinan yazici - [@sinan-yazici](https://fr.linkedin.com/in/sinan-yazici-20381519b) - sinan.yaz@hotmail.com
+sinan yazici - [@tom-lebrun](https://www.linkedin.com/in/tom-lebrun/) - sinan.yaz@hotmail.com
 
-Lien du projet : [https://github.com/sinan-yazici/projet-tkt](https://github.com/sinan-yazici/projet-tkt)
+Lien du projet : [https://github.com/lebruntom/Ap_tkt](https://github.com/lebruntom/Ap_tkt)
 
 <p align="right">(<a href="#top">Retour en haut</a>)</p>
 
