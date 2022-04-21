@@ -170,7 +170,7 @@ que l'attribuer à un utilisateur
 <!-- CONTACT -->
 ## Contact
 
-sinan yazici - [@tom-lebrun](https://www.linkedin.com/in/tom-lebrun/) - sinan.yaz@hotmail.com
+Tom Lebrun - [@tom-lebrun](https://www.linkedin.com/in/tom-lebrun/) - tomlebrun27@gmail.com
 
 Lien du projet : [https://github.com/lebruntom/Ap_tkt](https://github.com/lebruntom/Ap_tkt)
 
